@@ -33,4 +33,16 @@ N'hésitez pas à faire appel à la page d'aide de ce jeu de données
 .?urchin_bio
 ```
 
+## Module 2
+
+A la fin de ce module, vous devez avoir complété les sections relative à la régression linéaire, à la régression linéaire multiple et à la régression linéaire polynomiale de votre notebook 
+
+
+## Module 3
+
+
+A la fin de ce module, vous devez avoir complété les sections relative au modèle linéaire de votre notebook.
+
+A la fin de ce module, vous devez également réaliser votre rapport. Votre rapport est donc la synthèse de votre notebook.
+
 

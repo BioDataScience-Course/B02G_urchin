@@ -10,8 +10,8 @@ Ce projet est un travail en binôme à réaliser sur plusieurs modules.
 
 Vous allez devoir compléter les fichiers qui se trouvent dans le dossier docs : 
 
-- **urchin_notebook.Rmd** qui se trouve dans `docs/notebook/urchin_notebook.Rmd`
-- **urchin_report.Rmd** qui se trouve dans `docs/report/urchin_report.Rmd`
+- **urchin_notebook.Rmd** qui se trouve dans `docs/urchin_notebook.Rmd`
+- **urchin_report.Rmd** qui se trouve dans `docs/urchin_report.Rmd`
 
 Réalisez un carnet de laboratoire afin d'explorer les données sur la biométrie des oursins. 
 

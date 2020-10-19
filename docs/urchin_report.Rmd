@@ -1,5 +1,5 @@
 ---
-title: "Les oursins violets"
+title: "Oursins violets"
 author: '....'
 date: "09/10/2020"
 output: html_document
@@ -26,7 +26,7 @@ Un lecteur doit être capable de comprendre l'intérêt de votre travail après 
 # M&M
 
 <!---
-Présentez les outils informatiques que vous utilisez. Soyez précis
+Présentez les outils informatiques que vous utilisez. Soyez précis.
 ---->
 
 # Résultats et discussion
